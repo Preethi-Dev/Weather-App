@@ -1,4 +1,5 @@
 {
+  "homepage": "https://preethi-dev.github.io/Weather-App/",
   "name": "weather-app",
   "version": "1.0.0",
   "description": "Display weather details of specific country using react + redux",
@@ -24,7 +25,6 @@
   "bugs": {
     "url": "https://github.com/Preethi-Dev/Weather-App/issues"
   },
-  "homepage": "https://preethi-dev.github.io/Weather-App/",
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "parcel": "^2.11.0",
