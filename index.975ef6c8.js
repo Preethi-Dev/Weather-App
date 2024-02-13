@@ -27315,7 +27315,7 @@ $RefreshReg$(_c, "Dashboard");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../api/apiSlice":"8skQ8","./ErrorState":"haPex","./WeatherDisplay":"1g68M","./ShimmerUI":"d4nmO","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./EmptyState":"gqJiC","./Switch":"14P93"}],"8skQ8":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../api/apiSlice":"8skQ8","./ErrorState":"haPex","./WeatherDisplay":"1g68M","./ShimmerUI":"d4nmO","./EmptyState":"gqJiC","./Switch":"14P93","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"8skQ8":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "apiSlice", ()=>apiSlice);
@@ -35107,7 +35107,7 @@ $RefreshReg$(_c, "WeatherDisplay");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","./WeatherCard":"559ZF","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./WeatherHourCard":"j048q"}],"559ZF":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","./WeatherCard":"559ZF","./WeatherHourCard":"j048q","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"559ZF":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$d730 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
