@@ -1,7 +1,9 @@
+import Dashboard from "./features/weather/Dashboard";
+
 const App = () => {
   return (
     <>
-      <h1 className="text-4xl text-blue-900">Welcome to weather App</h1>
+      <Dashboard />
     </>
   );
 };
