@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/Preethi-Dev/Weather-App/issues"
   },
-  "homepage": "https://github.com/Preethi-Dev/Weather-App",
+  "homepage": "https://preethi-dev.github.io/Weather-App/",
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "parcel": "^2.11.0",
