@@ -7,8 +7,11 @@ export const apiSlice = createApi({
   }),
   endpoints: (builder) => ({
     getWeatherInfo: builder.query({
-      query: (searchTerm) =>
-        `http://api.weatherapi.com/v1/forecast.json?key=3d3cd37a5717427196574703240302&q=${searchTerm}`,
+      query: (searchTerm) => {
+        console.log(`serach term: ${searchTerm}`);
+        console.log("fired");
+        return `http://api.weatherapi.com/v1/forecast.json?key=3d3cd37a5717427196574703240302&q=${searchTerm}`;
+      },
     }),
   }),
 });
